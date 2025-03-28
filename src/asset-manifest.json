@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b7d45246.js",
+    "static/media/idioma.png": "/static/media/idioma.147c55c46c2203a8b5af.png",
+    "index.html": "/index.html",
+    "main.b7d45246.js.map": "/static/js/main.b7d45246.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b7d45246.js"
+  ]
+}
